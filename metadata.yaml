@@ -1,5 +1,5 @@
 _repo: Electra-Drama-em-cinco-actos_63145
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ortigão, Ramalho
@@ -16,6 +16,9 @@ contributor:
     wikipedia:
     - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
     - http://en.wikipedia.org/wiki/Ramalho_Ortigão
+covers:
+- cover_type: archival
+  image_path: 63145-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
     - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63145#Electra-Drama-em-cinco-actos
 gutenberg_issued: '2020-09-07'
 gutenberg_type: Text
 identifiers:
