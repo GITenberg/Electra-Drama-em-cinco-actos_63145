@@ -1,0 +1,46 @@
+_repo: Electra-Drama-em-cinco-actos_63145
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ortigão, Ramalho
+    aliases:
+    - Ortigão, R. (Ramalho)
+    - Ortigão, José Duarte Ramalho
+    - Ortigao, Jose Duarte Ramalho
+    - Ramalho Ortigão, José Duarte
+    - Duarte Ramalho Ortigão, José
+    birthdate: 1836
+    deathdate: 1915
+    gutenberg_agent_id: '4827'
+    url: http://www.gutenberg.org/2009/agents/4827
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
+    - http://en.wikipedia.org/wiki/Ramalho_Ortigão
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+description: ''
+gutenberg_issued: '2020-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63145'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama -- Translations into Portuguese'
+- GITenberg
+title: 'Electra: Drama em cinco actos'
+url: http://www.gutenberg.org/ebooks/63145
